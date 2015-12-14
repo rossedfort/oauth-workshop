@@ -11,3 +11,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+/config/initializers/omniauth.rb
+
+# Ignore application configuration
+/config/application.yml
